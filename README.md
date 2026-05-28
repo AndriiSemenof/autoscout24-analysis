@@ -23,7 +23,7 @@ This project explores what drives used car prices in Germany. Using a dataset of
 
 ## Live Dashboard
 
-**[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/andrii.semenov/viz/autoscout24_17743645931840/AutoScout24Marktanalyse20112021)**
+**[View Interactive Tableau Dashboard](https://public.tableau.com/shared/N6RK76NGZ?:display_count=n&:origin=viz_share_link)**
 
 
 ## Tools & Technologies
