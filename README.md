@@ -21,6 +21,11 @@ This project explores what drives used car prices in Germany. Using a dataset of
 - **Period:** 2011–2021
 - **Features:** make, model, fuel type, gearbox, mileage, horsepower, year, price
 
+## Live Dashboard
+
+🔗 View Interactive Tableau Dashboard
+
+
 ## Tools & Technologies
 
 | Tool | Purpose |
